@@ -21,7 +21,7 @@ Atualmente, estou me aprofundando em Java com Spring Boot, e publico meus projet
 | Projeto | Descrição |
 |--------|------------|
 | [Tarefa](https://github.com/FreakPy/Tarefa) | API REST com Spring Boot para gerenciamento de tarefas |
-| Em breve... | Novo projeto em desenvolvimento com React ou Flutter |
+| Em breve... | Novo projeto em desenvolvimento com  Flutter |
 
 ---
 
@@ -31,4 +31,4 @@ Atualmente, estou me aprofundando em Java com Spring Boot, e publico meus projet
 - GitHub: [github.com/FreakPy](https://github.com/FreakPy)
 
 ---
-> “Execução acima da perfeição.” – Projeto Menor
+> “Execução acima da perfeição.” – FreakPy
